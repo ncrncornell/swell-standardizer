@@ -20,6 +20,14 @@ Kristin McCue,
 
 SUPPORT:    <anrodger@umich.edu>
 
+DESCRIPTION
+===========
+This code, for SAS, provides an open-source method to standardize business names. It is the equivalent to the Stata code described in
+
+
+  Wasi, Nada and Flaaen, Aaron, (2015), [Record linkage using Stata: Preprocessing, linking, and reviewing utilities](http://www.stata-journal.com/article.html?article=dm0082), <i>Stata Journal</i>, <b>15</b>, issue 3, p. 672-697.
+
+
 MAIN FILES
 ==========
 
